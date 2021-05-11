@@ -1,0 +1,218 @@
+
+h1{
+  font-size: 4rem;
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+}
+
+h3{
+  font-size: 1rem;
+  font-family: "Itim";
+}
+hr{
+  margin: 0;
+}
+p{
+  font-family: "Itim";
+}
+
+/* Nav-Bar */
+
+.upperNav{
+  margin-left: 6%;
+  font-weight: bold;
+ font-family: "Itim";
+ font-size: 1rem;
+ margin-top: -1.5rem;
+
+}
+
+.nav-item{
+  padding-left: 25px;
+}
+
+
+.container-fluid{
+  margin-bottom :7rem;
+  margin-top: 5rem;
+
+}
+
+
+/* Main-page Slide-Bar */
+
+.carousel-indicators li{
+  cursor: pointer;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  opacity: 0.5;
+  margin: 0 15px 18px 15px;
+  color: #333;
+  background-color: #333;
+  top: -10px;
+  position: relative;
+}
+
+.divProducts{
+
+  position: relative;
+  text-align: center;
+}
+
+.centered{
+  position:absolute;
+  top:50%;
+  left:30%;
+  transform: translate(-50%,-50%);
+}
+
+.btn{
+  background-color: #e67e00;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Montserrat";
+  margin-top: 1rem;
+}
+
+
+.banner{
+  padding:3% 6%;
+}
+
+.banner2{
+  margin-left: 1.5rem;
+}
+
+.banner3{
+  margin-left: -1rem;
+}
+
+.banner4{
+  margin-right:  2rem;
+}
+
+
+
+
+/* price-tag */
+
+#price{
+  margin-left: 10%;
+}
+
+.pro{
+  font-weight: bolder;
+  font-family: "Itim";
+  margin-top: -5rem;
+  margin-bottom: 1rem;
+}
+
+.beauty{
+  color: grey;
+}
+
+.price-text{
+  color: #e67e00;
+  font-size:1.5rem;
+}
+
+
+/*buttons  */
+.new{
+  margin-top: 9rem;
+}
+
+.pro1{
+  margin-bottom: -1rem;
+}
+
+
+.table1{
+  margin-left: 55%;
+
+}
+.auto{
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+
+.game{
+    margin-bottom: 1rem;
+}
+
+/* Popular Catagories */
+
+.popular{
+  background-color: #D3D3D3;
+  padding: 7% 15% 5% 8%;
+  margin-left: 5%;
+}
+
+.machine{
+  background-color: white;
+  text-align: left;
+}
+
+.fresh{
+  margin-top: 2rem;
+}
+
+/* Accessories & Parts */
+
+.table2{
+  margin-top: -11rem;
+  margin-right: -15rem;
+}
+
+.parts1{
+  padding: 7% 15% 5% 8%;
+  margin-left: 5%;
+}
+
+.btn3{
+  margin-right: 1rem;
+  border-color: yellow;
+  border-spacing: 1rem;
+  margin-bottom: 1rem;
+}
+
+.card1{
+  padding: 7% 15% 5% 8%;
+  margin-left: 30%;
+}
+
+.m1{
+  margin-top: 1rem;
+}
+
+.machine1{
+  margin-left: 5%;
+  margin-top:0;
+}
+
+
+/* footer */
+
+.footer{
+  background-color: #e67e00;
+  margin-left: 5rem;
+}
+
+.paypal{
+  width: 20%;
+  margin-left: 30rem;
+}
+.paypal1{
+    width: 20%;
+    margin-left: 10rem;
+}
+.paypal2{
+  width: 40%;
+  margin-left: -10rem;
+}
+.copyright-rt{
+  margin-left: 20%;
+  font-size: 10px;
+}
